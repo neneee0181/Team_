@@ -1,0 +1,35 @@
+# Visual Studio 관련 파일 및 폴더
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 빌드 결과물
+bin/
+obj/
+*.cache
+*.ilk
+*.pdb
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.tlog
+*.log
+
+# NuGet 패키지
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# 환경설정 파일
+appsettings.json
+appsettings.*.json
+
+# Rider & ReSharper 관련 파일
+.idea/
+*.DotSettings.user
+*.sln.DotSettings
